@@ -1,6 +1,6 @@
 baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
+languageCode = "es-cl"
+languageLang = "es"
 title = "CONSTRUCTORA MC"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
